@@ -12,7 +12,7 @@ Security Engineer and AI researcher focused on GenAI and LLM security. Currently
 
 - **Agent Name Service (ANS): A Universal Directory for Secure AI Agent Discovery and Interoperability** (May 2025) - [IETF Draft](https://datatracker.ietf.org/doc/draft-narajala-ans/) - Ken Huang, Vineeth Sai Narajala, Idan Habler, Akram Sheriff
 - **Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach** (Apr 2025) - [arXiv:2504.19951](https://arxiv.org/abs/2504.19951) - Vineeth Sai Narajala, Ken Huang, Idan Habler
-- **Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents** (Apr 2025) - Vineeth Sai Narajala, Om Narayan
+- **Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents** (Apr 2025) [arXiv:2504:19956](https://arxiv.org/abs/2504.19956)- Vineeth Sai Narajala, Om Narayan
 - **Building A Secure Agentic AI Application Leveraging A2A Protocol** (Apr 2025) - [arXiv:2504.16902](https://arxiv.org/abs/2504.16902) - Idan Habler, Ken Huang, Vineeth Sai Narajala, Prashant Kulkarni
 - **Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies** (Apr 2025) - [arXiv:2504.08623](https://arxiv.org/abs/2504.08623) - Vineeth Sai Narajala, Idan Habler
 
